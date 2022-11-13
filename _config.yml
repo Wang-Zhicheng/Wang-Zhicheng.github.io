@@ -10,7 +10,7 @@ locale                   : "en-SG"
 title                    : "William Wang Zhicheng"
 title_separator          : "-"
 name                     : &name "Wang Zhicheng (William)"
-description              : &description "PhD student at Robotics & Machine Intelligence Lab, Zhejiang University\nRobotics, legged locomotion, artificial intelligence"
+description              : &description "\nRobotics, legged locomotion, artificial intelligence"
 url                      : "https://Wang-Zhicheng.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhicheng Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student at Robotics & Machine Intelligence Lab, Zhejiang University"
   location         : "Singapore / Mainland China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
