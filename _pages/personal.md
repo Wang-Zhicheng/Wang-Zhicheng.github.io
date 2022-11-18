@@ -11,7 +11,7 @@ author_profile: true
 🏳️‍⚧️ Gender
 -----
 MtF (No limitation for pronouns), currently under RLE 🎀
-No future plan for HRT sue to health reasons
+No future plan for HRT due to health reasons
 
 🎮 Gaming
 -----

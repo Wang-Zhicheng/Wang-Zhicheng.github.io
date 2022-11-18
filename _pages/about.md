@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Zhicheng Wang, you can just call me William.
+Hi there! My name is Zhicheng Wang, you can just call me William or Willa.
 
 I'm a PhD student from Robotics & Machine Intelligence Lab, Zhejiang University, supervised by [Qiuguo Zhu](https://person.zju.edu.cn/0011353). Curently I am working as a research assistant at [Institute of Infocomm Research](https://www.a-star.edu.sg/i2r/home)(I2R), [A-STAR](https://www.a-star.edu.sg/) in Singapore.
 
