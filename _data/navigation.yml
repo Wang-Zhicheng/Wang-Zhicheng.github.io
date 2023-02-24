@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Projects"
+    url: /proj/
+
   - title: "More about Me"
     url: /personal/
     
@@ -13,4 +16,4 @@ main:
     url: /markdown/
 
   - title: "Links"
-    url: /links/
+    url: /link/
