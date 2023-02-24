@@ -2,9 +2,6 @@
 permalink: /link/
 title: "Friend links"
 author_profile: true
-redirect_from:
-  - /links/
-  - /link.html
 ---
 
 <blockquote>
