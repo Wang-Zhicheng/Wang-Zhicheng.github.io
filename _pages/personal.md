@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Other Passions"
+title: "About Me"
 permalink: /personal/
 author_profile: true
 ---
