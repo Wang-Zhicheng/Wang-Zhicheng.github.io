@@ -1,9 +1,8 @@
 ---
-permalink: /link
+permalink: /link/
 title: "Friend links"
 author_profile: true
 redirect_from:
-  - /link/
   - /links/
   - /link.html
 ---
