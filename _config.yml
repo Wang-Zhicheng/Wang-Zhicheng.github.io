@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-SG"
-title                    : "William Wang Zhicheng"
+title                    : "Willa Wang Zhicheng"
 title_separator          : "-"
-name                     : &name "Wang Zhicheng (William)"
+name                     : &name "Wang Zhicheng (Willa)"
 description              : &description "\nRobotics, legged locomotion, artificial intelligence"
 url                      : "https://Wang-Zhicheng.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @willaW317
 facebook:
   username               :
   app_id                 :
@@ -87,9 +87,9 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=LrsaqLAAAAAJ"
-  email            : "316010273@zju.edu.cn"
+  email            : "willw317@zju.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Wang-Zhicheng-6"
-  uri              :
+  uri              : "https://Wang-Zhicheng.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://x.com/willaW317"
   vine             :
   weibo            :
   xing             :

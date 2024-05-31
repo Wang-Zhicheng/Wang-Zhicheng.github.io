@@ -70,6 +70,9 @@ Publications
 2. Pang, Y., Wang, Y., **Wang, Z.,** Zhang, Y., Liu, L., Kong, S., ... & Li, W. (2022). Quantifying the Fractal Dimension and Morphology of Individual Atmospheric Soot Aggregates. *Journal of Geophysical Research: Atmospheres*, 127(5), e2021JD036055, DOI: 10.1029/2021JD036055.
 3. **Wang, Z.,** Li, A., Zheng, Y., Xie, A., Li, Z., Wu, J., & Zhu, Q. (2022). Efficient learning of robust quadruped bounding using pretrained neural networks. *IET Cyber‐Systems and Robotics*, DOI:10.1049/csy2.12062.
 4. **Wang, Z.,** Wei, W., Xie, A., Zhang, Y., Wu, J., & Zhu, Q. (2022). Hybrid Bipedal Locomotion Based on Reinforcement Learning and Heuristics. *Micromachines*, 13(10), 1688, DOI:10.3390/mi13101688.
+5. Wei, W., **Wang, Z.**, Xie, A., Xiong, R., Wu, J., & Zhu, Q. (2023). Learning Gait-conditioned Bipedal Locomotion with Motor Adaptation. *2023 IEEE-RAS 22nd International Conference on Humanoid Robots (Humanoids)*, DOI: 10.1109/Humanoids57100.2023.10375167.
+6. **Wang, Z.**, Wei, W.,  Yu, R., Wu, J., & Zhu, Q. (2024). Toward Understanding Key Estimation in Learning Robust Humanoid Locomotion. *Submitted to 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*
+
 
 Leadership Experience
 ======

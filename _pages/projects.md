@@ -64,3 +64,30 @@ Training curriculum is also modified into a simpler version.
 Trained trotting, bounding, galloping and fall recovery policies.
 
 Period: Oct 2022 - Jan 2023
+
+[paper](https://ieeexplore.ieee.org/document/10375167)
+
+### SDK development for Wukong-IV humanoid
+
+Wukong-IV is a  humanoid robot designed and made by Robotics & Machine Intelligence Lab of Zhejiang University.
+It is 1.4 m tall, weighs 45 kg, and is actuated by 21 electric motor joints.
+The SDK was formalized in this project, as the preparation for subsequent developments.
+
+Period: Aug 2023 - Oct 2023
+
+### Learned Robust Humanoid Locomotion
+
+A humanoid implementation based on [DreamWaQ](https://arxiv.org/abs/2301.10602)
+
+Trained robust walking policies that can traverse stairs, slopes and outdoor terrains.
+The policy also can endure kicking.
+
+Related videos (on Bilibili.com):
+- [Slope and stairs](https://www.bilibili.com/video/BV1Wy421Y7sz)
+- [Outdoor grassfield](https://www.bilibili.com/video/BV1JD421W7Xg)
+- [Outdoor paved road](https://www.bilibili.com/video/BV1XZ421U7Wo)
+- [Brutal kicking](https://www.bilibili.com/video/BV1EK421Y7UG)
+
+Period: Oct 2023 - Mar 2024
+
+[paper](https://arxiv.org/abs/2403.05868)
